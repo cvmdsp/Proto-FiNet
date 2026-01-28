@@ -8,7 +8,7 @@ Semantic segmentation of remote sensing imagery is a pivotal task in computer vi
 
 # Supported Remote Sensing Datasets
 
-[![ISPRS Vaihingen and Potsdam](https://img.shields.io/badge/ISPRS-UrbanSemLab-blue)](https://www.isprs.org/education/benchmarks/UrbanSemLab/default.aspx)
+[![ISPRS Vaihingen and Potsdam](https://www.isprs.org/education/benchmarks/UrbanSemLab/default.aspx)
 
 {
 
