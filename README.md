@@ -14,7 +14,10 @@ Semantic segmentation of remote sensing imagery is a pivotal task in computer vi
 [LoveDA](https://codalab.lisn.upsaclay.fr/competitions/421)
 
 # Install
-{
 
+```bash
+conda create -n protofi python=3.8 -y
+conda activate protofi
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+pip install -r GeoSeg/requirements.txt
 
-}
