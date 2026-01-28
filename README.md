@@ -20,4 +20,9 @@ conda create -n protofi python=3.8 -y
 conda activate protofi
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 pip install -r GeoSeg/requirements.txt
+```
 
+#Acknowledgement
+
+
+Our training and testing framework follows UNetFormer (https://github.com/WangLibo1995/GeoSeg), which is a well-established framework, thanks to the author LiBo Wang for sharing it.
